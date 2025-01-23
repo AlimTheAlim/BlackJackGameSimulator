@@ -1,5 +1,4 @@
-# BlackJackGameSimulator
- Here’s a concise 350-character description:  A C++ implementation of the classic BlackJack game featuring modular object-oriented design. Includes core gameplay mechanics like hitting, standing, and dealer AI. Fully documented with Doxygen, tested using GoogleTest, and built with CMake.
+# BlackJackGameSimulator A C++ implementation of the classic BlackJack game featuring modular object-oriented design. Includes core gameplay mechanics like hitting, standing, and dealer AI. Fully documented with Doxygen, tested using GoogleTest, and built with CMake.
 BlackJack Game Simulator
 A feature-rich C++ implementation of the classic BlackJack card game. This repository provides a comprehensive simulation of the BlackJack gameplay, following standard rules and focusing on modular design using object-oriented programming principles.
 
